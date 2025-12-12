@@ -1,6 +1,5 @@
 {
     "name": "rajpurohithitesh/paapi5-php-sdk",
-    "version": "1.0.0",
     "description": "Amazon's Official Product Advertising API v5 PHP SDK with OffersV2",
     "keywords": [
         "amazon",
